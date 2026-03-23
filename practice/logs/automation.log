@@ -1,0 +1,30 @@
+2026-03-22 15:45:19,209 INFO  tests.HomeTest - Home page created
+2026-03-22 15:45:19,392 INFO  tests.HomeTest - get title
+2026-03-22 15:45:19,397 INFO  tests.HomeTest - title comparison done
+2026-03-22 15:45:24,769 INFO  tests.HomeTest - Home page created
+2026-03-22 15:45:30,163 INFO  tests.HomeTest - Home page created
+2026-03-22 16:13:23,430 INFO  tests.HomeTest - Home page created
+2026-03-22 16:13:23,641 INFO  tests.HomeTest - get title
+2026-03-22 16:13:23,649 INFO  tests.HomeTest - title comparison done
+2026-03-22 16:13:31,881 INFO  tests.HomeTest - Home page created
+2026-03-22 16:13:36,731 INFO  tests.HomeTest - Home page created
+2026-03-22 16:57:49,692 INFO  tests.HomeTest - Home page created
+2026-03-22 16:57:49,864 INFO  tests.HomeTest - get title
+2026-03-22 16:57:49,870 INFO  tests.HomeTest - title comparison done
+2026-03-22 16:57:55,549 INFO  tests.HomeTest - Home page created
+2026-03-22 16:58:01,342 INFO  tests.HomeTest - Home page created
+2026-03-23 10:54:00,951 INFO  tests.HomeTest - Home page created
+2026-03-23 11:01:55,580 INFO  tests.HomeTest - Home page created
+2026-03-23 11:01:55,664 INFO  tests.HomeTest - get title
+2026-03-23 11:01:55,677 INFO  tests.HomeTest - title comparison done
+2026-03-23 11:02:01,347 INFO  tests.HomeTest - Home page created
+2026-03-23 11:02:07,042 INFO  tests.HomeTest - Home page created
+2026-03-23 19:02:27,705 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-23 19:27:54,513 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-23 19:38:53,565 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-23 19:49:43,266 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-03-23 19:49:43,324 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-03-23 19:49:43,328 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-03-23 19:49:47,491 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-23 19:49:52,945 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-03-23 19:49:53,380 INFO  stepdefinitions.HomeSteps - Logout clicked
