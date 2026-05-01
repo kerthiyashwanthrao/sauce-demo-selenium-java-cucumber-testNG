@@ -19,3 +19,5 @@ Feature: Login functionality
     Given user opens the login page
     When user logs in with username "locked_out_user" and password "secret_sauce"
     Then error message should contain "Sorry, this user has been locked out."
+    
+    

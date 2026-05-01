@@ -3,9 +3,8 @@ package utils;
 import org.testng.annotations.BeforeMethod;
 
 import driver.DriverManager;
-import hooks.Hooks;
 
-public class BaseLoginTest extends Hooks {
+public class BaseLoginTest {
 
     @BeforeMethod
     public void login() {

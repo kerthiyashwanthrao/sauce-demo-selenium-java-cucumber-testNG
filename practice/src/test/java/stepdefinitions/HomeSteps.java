@@ -4,85 +4,98 @@ import driver.DriverManager;
 import io.cucumber.java.en.*;
 import org.testng.Assert;
 import org.apache.log4j.Logger;
-
 import pages.HomePage;
 import pages.LoginPage;
 
-public class HomeSteps{
+public class HomeSteps {
 
-    HomePage home;
-    LoginPage loginPage;
+	HomePage homePage = new HomePage(DriverManager.getDriver());
+	LoginPage loginPage = new LoginPage(DriverManager.getDriver());
 
-    Logger logger = Logger.getLogger(HomeSteps.class);
+	Logger logger = Logger.getLogger(HomeSteps.class);
 
-    @Given("user is logged into the application")
-    public void user_is_logged_into_the_application() {
+	@Given("user is logged into the application")
+	public void user_is_logged_into_the_application() {
+		DriverManager.getDriver().get("https://www.saucedemo.com/");
+		loginPage.login("standard_user", "secret_sauce");
+		logger.info("User logged in successfully");
+	}
 
-        DriverManager.getDriver().get("https://www.saucedemo.com/");
+	@Given("user is on the home page")
+	public void user_is_on_the_home_page() {
 
-        loginPage = new LoginPage(DriverManager.getDriver());
-        loginPage.login("standard_user", "secret_sauce");
+		DriverManager.getDriver().get("https://www.saucedemo.com/");
 
-        home = new HomePage(DriverManager.getDriver());
+		loginPage = new LoginPage(DriverManager.getDriver());
+		loginPage.login("standard_user", "secret_sauce");
 
-        logger.info("User logged in successfully");
-    }
+		homePage = new HomePage(DriverManager.getDriver());
 
-    @Then("home page title should contain {string}")
-    public void home_page_title_should_contain(String expectedTitle) {
+		Assert.assertTrue(DriverManager.getDriver().getCurrentUrl().contains("inventory"),
+				"User is not on home/inventory page");
+	}
 
-        String title = home.getTitle();
-        logger.info("Fetched page title");
+	@Then("home page title should contain {string}")
+	public void home_page_title_should_contain(String expectedTitle) {
 
-        Assert.assertTrue(title.contains(expectedTitle));
+		String title = homePage.getTitle();
 
-        logger.info("Title verification completed");
-    }
+		Assert.assertTrue(title.contains(expectedTitle),
+				"Expected title to contain: " + expectedTitle + " but actual title is: " + title);
 
-    @Given("user is on the home page")
-    public void user_is_on_the_home_page() {
+		logger.info("Title verification completed");
+	}
 
-        home = new HomePage(DriverManager.getDriver());
-        logger.info("Home page initialized");
-    }
+	@Then("product list should be visible")
+	public void product_list_should_be_visible() {
 
-    @Then("product list should be visible")
-    public void product_list_should_be_visible() {
+		Assert.assertTrue(homePage.isProductListVisible(), "Product list is not visible");
 
-        Assert.assertTrue(home.isProductListVisible(),
-                "Product list is not visible");
+		logger.info("Product list visibility verified");
+	}
 
-        logger.info("Product list visibility verified");
-    }
+	@Then("product count should be greater than 0")
+	public void product_count_should_be_greater_than_0() {
 
-    @Then("product count should be greater than 0")
-    public void product_count_should_be_greater_than_0() {
+		int count = homePage.getProductCount();
 
-        int count = home.getProductCount();
+		Assert.assertTrue(count > 0, "No products found on page");
 
-        Assert.assertTrue(count > 0,
-                "No products found on page");
+		logger.info("Product count verified: " + count);
+	}
 
-        logger.info("Product count verified: " + count);
-    }
+	@Then("user should be redirected to login page")
+	public void user_should_be_redirected_to_login_page() {
 
-    @When("user clicks logout")
-    public void user_clicks_logout() {
+		String currentUrl = DriverManager.getDriver().getCurrentUrl();
 
-        home.openMenu();
-        home.clickLogout();
+		Assert.assertEquals(currentUrl, "https://www.saucedemo.com/", "User is not redirected to login page");
 
-        logger.info("Logout clicked");
-    }
+		logger.info("Logout verified successfully");
+	}
 
-    @Then("user should be redirected to login page")
-    public void user_should_be_redirected_to_login_page() {
+	@When("user select sorting dropdown")
+	public void userselectsortingdropdown() {
+		homePage.clickSortButton();
+		logger.info("user select sorting dropdown");
+	}
 
-        String currentUrl = DriverManager.getDriver().getCurrentUrl();
+	@And("choose {string}")
+	public void chooseAnyOption(String option) {
+		homePage.selectSortBy(option);
+		logger.info("choose" + option);
+	}
 
-        Assert.assertEquals(currentUrl,
-                "https://www.saucedemo.com/");
+	@Then("products should be sorted alphabetically.")
+	public void productsshouldbesortedalphabetically() {
+		homePage.isSortedAlphabeticallyAtoZ();
+		logger.info("is sorted alphabetically");
+	}
 
-        logger.info("Logout verified successfully");
-    }
+	@Then("products should be sorted by highest price first")
+	public void productsshouldbesortedbyhighestpricefirst() {
+		homePage.isSortedPriceHighToLow();
+		logger.info("products should be sorted high to low .");
+	}
+
 }

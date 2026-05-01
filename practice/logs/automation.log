@@ -28,3 +28,465 @@
 2026-03-23 19:49:47,491 INFO  stepdefinitions.HomeSteps - Home page initialized
 2026-03-23 19:49:52,945 INFO  stepdefinitions.HomeSteps - User logged in successfully
 2026-03-23 19:49:53,380 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-03-24 21:53:23,889 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-03-24 21:53:24,038 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-03-24 21:53:24,042 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-03-24 21:53:27,844 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-24 23:19:10,569 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-03-24 23:19:10,602 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-03-24 23:19:10,608 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-03-24 23:19:13,459 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-03-24 23:19:19,753 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-03-24 23:19:20,305 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-03-24 23:19:20,327 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 16:55:53,897 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 16:58:42,818 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 17:01:39,544 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 17:39:25,244 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 18:56:38,845 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 21:55:10,178 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 21:55:12,580 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 21:55:16,995 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 21:57:02,504 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 21:57:02,570 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 21:57:02,572 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 21:57:04,489 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 21:57:08,017 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:05:26,367 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:05:26,403 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:05:26,404 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:05:28,496 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 22:05:32,389 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:18:00,400 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:18:00,433 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:18:00,433 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:18:02,561 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 22:18:06,229 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:18:07,110 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:18:07,121 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:25:27,089 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:25:27,132 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:25:27,132 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:25:29,020 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 22:25:32,530 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:25:32,993 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:25:33,014 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:28:48,729 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:28:48,759 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:28:48,759 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:28:50,743 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 22:28:54,214 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:28:54,557 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:28:54,572 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:32:51,366 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:32:51,383 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:32:51,383 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:32:53,477 INFO  stepdefinitions.HomeSteps - Home page initialized
+2026-04-27 22:32:56,931 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:32:57,510 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:32:57,522 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:42:59,317 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:42:59,334 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:42:59,334 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:43:07,226 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:43:08,076 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:43:08,093 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:45:09,905 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:45:09,993 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:45:09,994 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:45:16,157 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:45:16,625 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:45:16,644 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:46:43,653 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:46:43,701 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:46:43,702 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:46:50,144 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:46:51,034 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:46:51,048 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:47:42,693 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:47:42,708 INFO  stepdefinitions.HomeSteps - Fetched page title
+2026-04-27 22:47:42,708 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:47:48,979 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:47:49,850 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:47:49,869 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-27 22:54:55,294 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:54:55,358 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-27 22:54:59,001 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-27 22:54:59,020 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-27 22:55:02,566 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-27 22:55:03,414 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-27 22:55:03,427 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-28 17:40:16,411 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-28 17:40:16,476 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-28 17:40:20,412 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-28 17:40:20,449 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-28 17:40:24,005 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-28 17:40:24,892 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-28 17:40:24,903 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-28 17:55:23,442 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-28 17:55:23,475 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-28 17:55:27,200 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-28 17:55:27,221 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-28 17:55:30,640 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-28 17:55:31,490 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-28 17:55:31,514 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-28 22:35:59,710 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 22:35:59,964 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 22:36:00,429 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 22:36:01,280 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 22:36:01,540 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 22:36:01,702 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 22:36:01,781 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 22:42:56,391 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 22:42:56,604 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 22:42:56,746 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 22:42:57,213 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 22:42:57,407 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 22:42:57,577 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 22:42:57,648 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 22:47:53,382 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 22:47:53,521 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 22:47:53,678 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 22:47:54,107 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 22:47:54,284 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 22:47:54,449 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 22:47:54,518 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 22:52:28,968 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 22:52:29,116 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 22:52:29,269 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 22:52:29,686 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 22:52:29,853 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 22:52:29,984 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 22:52:30,053 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 22:59:24,405 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 22:59:24,599 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 22:59:24,787 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 22:59:25,253 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 22:59:25,493 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 22:59:25,665 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 22:59:25,759 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 23:08:10,435 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 23:08:10,616 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 23:08:10,746 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 23:08:11,252 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-28 23:08:11,617 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 23:08:11,820 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-28 23:08:11,909 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-28 23:08:17,828 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-28 23:08:17,946 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-28 23:08:18,052 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-28 23:08:18,067 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-28 23:08:18,315 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-28 23:08:18,428 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-28 23:08:18,476 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 00:37:50,110 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:37:50,487 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:37:50,772 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:37:52,269 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:37:53,663 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:37:53,866 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 00:37:53,872 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 00:37:54,764 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 00:37:54,956 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 00:37:55,409 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:37:55,706 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 00:37:56,169 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:37:56,437 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-29 00:37:56,523 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 00:37:56,589 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-29 00:37:57,123 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:37:57,503 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:37:57,517 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 00:37:58,197 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 00:37:58,473 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:37:58,569 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 00:42:07,248 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:42:08,479 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-29 00:42:08,567 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-29 00:42:11,115 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 00:42:11,206 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 00:42:11,214 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:42:11,420 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 00:42:18,379 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:42:18,702 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:42:18,978 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:42:19,786 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 00:42:20,223 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:42:20,496 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 00:42:20,613 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 00:42:23,039 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:42:23,265 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:42:23,453 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:42:23,468 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 00:42:23,865 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 00:42:24,098 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:42:24,200 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 00:47:32,499 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:47:33,121 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 00:47:34,422 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 00:47:34,440 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:47:34,914 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 00:47:35,257 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:47:36,782 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-29 00:47:36,797 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-29 00:47:37,515 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:47:37,602 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:47:37,877 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:47:37,929 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:47:37,948 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 00:47:38,378 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:47:38,487 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 00:47:38,700 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:47:38,769 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 00:47:39,022 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 00:47:39,236 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:47:39,395 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 00:47:39,459 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 00:56:30,839 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:56:31,057 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:56:31,621 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:56:31,699 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 00:56:33,346 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:56:33,713 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 00:56:33,887 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 00:56:33,954 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 00:56:33,998 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:56:34,651 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 00:56:35,252 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-29 00:56:35,357 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-29 00:56:35,392 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 00:56:35,691 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 00:56:35,985 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 00:56:37,016 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 00:56:37,401 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 00:56:37,678 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 00:56:37,751 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 00:56:39,097 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 00:56:39,123 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 01:03:40,272 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 01:03:40,805 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 01:03:41,054 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 01:03:41,833 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 01:03:42,492 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 01:03:42,533 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 01:03:42,691 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 01:03:44,290 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 01:03:44,353 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 01:03:44,364 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 01:03:45,268 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 01:03:45,791 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 01:03:46,871 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 01:03:47,080 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 01:03:47,294 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 01:03:47,321 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 01:03:47,656 INFO  stepdefinitions.HomeSteps - Logout clicked
+2026-04-29 01:03:47,672 INFO  stepdefinitions.HomeSteps - Logout verified successfully
+2026-04-29 01:03:48,023 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 01:03:48,215 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 01:03:48,283 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 12:59:03,620 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 12:59:03,842 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 12:59:03,924 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 12:59:07,744 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 12:59:07,900 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 12:59:07,992 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 13:00:14,663 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 13:00:16,392 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 13:00:16,578 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 13:00:21,574 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 13:00:21,644 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 13:00:21,761 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 13:00:21,711 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 13:00:22,965 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 13:00:23,076 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 13:00:23,355 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 13:00:23,373 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 13:00:23,655 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 13:00:24,172 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 13:00:24,521 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 13:00:24,616 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 13:00:25,017 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 13:00:25,273 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 13:00:25,504 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 13:00:25,577 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 13:00:51,945 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 13:00:52,226 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 13:00:52,577 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 13:00:52,748 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 13:00:53,283 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 13:00:53,421 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 18:10:43,430 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:10:43,445 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:10:45,963 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:10:46,198 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:10:46,248 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:10:46,593 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:10:46,720 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:10:48,004 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:10:47,243 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:10:49,404 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 18:10:49,907 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:10:50,078 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:10:50,302 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 18:10:50,442 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:10:50,449 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 18:10:50,625 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 18:10:51,394 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 18:10:51,571 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:10:51,630 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 18:11:09,007 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:11:09,257 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:11:09,518 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 18:11:09,632 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 18:11:09,775 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 18:11:09,993 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 18:11:17,468 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:11:21,037 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:20:28,429 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:20:28,712 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:20:28,891 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:20:29,937 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 18:20:30,376 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:20:30,498 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 18:20:30,565 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 18:20:33,242 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:20:34,021 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:20:34,121 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:20:34,186 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:20:34,495 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:20:34,984 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:20:35,653 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:20:35,941 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:20:35,958 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 18:20:36,398 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 18:20:36,623 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:20:36,713 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 18:20:54,901 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:20:54,970 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:20:55,122 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 18:20:55,270 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 18:20:55,405 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 18:20:55,521 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 18:21:01,977 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:21:06,267 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:42:21,164 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:42:21,316 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:42:21,363 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:42:25,882 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:42:25,930 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:42:33,667 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:42:33,841 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:42:34,114 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:42:34,990 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 18:42:35,488 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:42:36,102 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 18:42:36,295 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 18:42:36,781 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:42:37,072 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:42:37,551 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:42:37,568 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 18:42:38,068 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 18:42:38,245 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:42:38,318 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 18:42:57,282 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:42:57,956 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 18:42:58,158 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 18:42:59,677 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:43:01,061 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:43:01,528 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 18:43:01,658 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 18:43:11,152 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:44:57,818 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:44:59,323 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:44:59,398 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:45:03,772 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:45:03,813 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:45:04,189 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:45:04,803 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:45:05,032 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:45:05,264 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:45:05,463 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:45:05,971 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:45:06,000 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 18:45:06,126 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 18:45:06,340 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:45:06,493 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 18:45:06,557 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 18:45:06,620 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 18:45:06,844 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:45:06,907 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 18:45:29,518 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:45:30,561 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:45:30,736 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:45:30,857 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 18:45:31,091 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 18:45:31,196 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 18:45:31,361 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 18:45:36,224 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:47:27,611 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:47:27,649 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:47:30,761 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:47:30,788 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:47:33,801 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:50:17,291 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:50:17,322 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:50:20,366 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:50:20,410 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:50:23,278 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:52:48,042 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:52:48,072 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:52:51,316 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:52:51,337 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:52:54,417 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:55:07,861 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:55:07,878 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:55:10,849 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:55:10,868 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:59:06,550 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:59:06,766 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:59:06,916 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:59:06,927 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 18:59:07,638 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 18:59:07,868 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:59:08,038 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 18:59:08,272 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 18:59:08,588 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 18:59:09,256 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 18:59:09,634 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 18:59:10,372 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 18:59:11,150 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 18:59:11,364 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 18:59:11,875 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 18:59:12,050 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 18:59:12,212 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 18:59:12,270 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 18:59:28,444 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:59:28,564 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 18:59:28,720 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 18:59:28,848 INFO  stepdefinitions.HomeSteps - is sorted alphabetically
+2026-04-29 18:59:28,931 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 18:59:29,086 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 19:03:15,827 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 19:03:16,020 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 19:03:16,294 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 19:03:16,772 INFO  stepdefinitions.CheckoutPageSteps - Logout clicked
+2026-04-29 19:03:17,010 INFO  stepdefinitions.HomeSteps - User logged in successfully
+2026-04-29 19:03:17,099 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 19:03:17,580 INFO  stepdefinitions.HomeSteps - Title verification completed
+2026-04-29 19:03:18,083 INFO  stepdefinitions.CheckoutPageSteps - clicked finished btn
+2026-04-29 19:03:18,141 INFO  stepdefinitions.CheckoutPageSteps - validate thank you message
+2026-04-29 19:03:18,672 INFO  stepdefinitions.HomeSteps - Product list visibility verified
+2026-04-29 19:03:18,807 INFO  stepdefinitions.CheckoutPageSteps - user add product to cart
+2026-04-29 19:03:18,907 INFO  stepdefinitions.HomeSteps - Product count verified: 2
+2026-04-29 19:03:19,356 INFO  stepdefinitions.CheckoutPageSteps - go to cart clicked
+2026-04-29 19:03:19,897 INFO  stepdefinitions.CheckoutPageSteps - clicked checkout
+2026-04-29 19:03:19,927 INFO  stepdefinitions.CheckoutPageSteps - user is on checkout page
+2026-04-29 19:03:20,415 INFO  stepdefinitions.CheckoutPageSteps - user leaves fields blank
+2026-04-29 19:03:20,566 INFO  stepdefinitions.CheckoutPageSteps - click Continue
+2026-04-29 19:03:20,617 INFO  stepdefinitions.CheckoutPageSteps - Logout verified successfully
+2026-04-29 19:03:29,889 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 19:03:30,243 INFO  stepdefinitions.HomeSteps - user select sorting dropdown
+2026-04-29 19:03:30,523 INFO  stepdefinitions.HomeSteps - choosePrice (high to low)
+2026-04-29 19:03:30,536 INFO  stepdefinitions.HomeSteps - chooseName (A to Z)
+2026-04-29 19:03:30,626 INFO  stepdefinitions.HomeSteps - products should be sorted high to low .
+2026-04-29 19:03:30,682 INFO  stepdefinitions.HomeSteps - is sorted alphabetically

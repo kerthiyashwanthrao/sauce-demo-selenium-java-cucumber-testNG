@@ -15,12 +15,11 @@ public class LoginSteps{
 
         DriverManager.getDriver().get("https://www.saucedemo.com");
 
-        loginPage = new LoginPage(DriverManager.getDriver());
     }
 
     @When("user logs in with username {string} and password {string}")
     public void user_logs_in_with_username_and_password(String username, String password) {
-
+        loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.login(username, password);
     }
 
