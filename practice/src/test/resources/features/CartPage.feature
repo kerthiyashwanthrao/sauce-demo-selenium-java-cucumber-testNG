@@ -7,7 +7,7 @@ Scenario: Add Product to Cart
     When user clicks on add to cart on any product 
     Then cart badge increases by 1
     And button changes to remove
-
+  
 Scenario: Add Multiple Products
     Given user is on login page
     When user logs in with username "standard_user" and password "secret_sauce"
